@@ -27,3 +27,5 @@ go build -o github-info
 ```bash 
 ./github-info <Github username>
 ```
+
+Created for [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
